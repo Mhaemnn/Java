@@ -1,12 +1,9 @@
 /**
-<<<<<<< HEAD
- Pemilik : Muhaemin
+=============================================
  Pada pertemuan ke -2: Class & Object
     = Class -> template atau wadah (loyang)
     = Object -> isi dari template atau wadah (kue)
-=======
- Outhet
->>>>>>> b564e10493bf904966f896b5b3fb83ce9cc1565f
+==============================================
  **/
 
 
