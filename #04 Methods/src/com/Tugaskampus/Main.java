@@ -1,3 +1,5 @@
+//method pada java
+
 package com.Tugaskampus;
 
 public class Main {
