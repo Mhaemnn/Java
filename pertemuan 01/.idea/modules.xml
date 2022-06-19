@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD:pertemuan 01/.idea/modules.xml
       <module fileurl="file://$PROJECT_DIR$/pertemuan 01.iml" filepath="$PROJECT_DIR$/pertemuan 01.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/pertemuan 02.iml" filepath="$PROJECT_DIR$/pertemuan 02.iml" />
+>>>>>>> origin/main:pertemuan 02/.idea/modules.xml
     </modules>
   </component>
 </project>
