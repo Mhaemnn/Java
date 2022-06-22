@@ -1,6 +1,7 @@
+#### Sejarah singkat
 `Java` adalah bahasa pemrogramana tingkat tinggi yang berorientasi objek, di edarkan oleh <i>sun microsystem</i> pada awal tahun 1996. Sejarah awal Java berawal di tahun 1991 ketika satu group insinyur-insinyur Sun, yang di pimpin oleh [Ptrick Naughton](https://en.wikipedia.org/wiki/Patrick_Naughton) dan [James Golsing](https://id.wikipedia.org/wiki/James_Gosling), ingin mendesain sebuah bahasa pemrograman komputer yang berukuran kecil yang dapat digunakan untuk peralatan elektronika seperti switchboxes TV kabel.
 
- ### 1. Install Java
+ ####  Install Java
  Pertam-pertama, yang perlu dilakukan adalah memperbaharui repository pada ubuntu dengan menggunakan perintah berikut:
  ```bush
  sudo apt-get update && apt-get upgrade
