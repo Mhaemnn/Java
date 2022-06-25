@@ -25,5 +25,15 @@ java VERSION "17.0.1" 2021-10-19 LTS
 java (TM) SE Runtime Environment (build 17.0.1+12-LTS-39)
 java HotSpot(TM) 64-Bit Server VM (build 17.0.1+12-LTS-39, mixed mode, sharing)
 ```
+#### Database Menggunakan XAMPP
+[XAMPP](https://www.apachefriends.org/download.html) merupakan web serve open source yang berjalan pada sistem operasi cross-platfrom (Windows, Linux, MacOS). Semua keperluan untuk mengelola Website tersedia di XAMPP seperti Apache, MySQL/MariaDB, PHP, dan Perl. <br>
+Setalah anda berhasil mendownload xampp dari situs resiminya `CRTL+ALT+T` dan masuk ke folder download
+```bush
+muhaemin@mumu:~ cd/Downloads
+```
+lalu ketikan printah di bawah ini
+```bush
+sudo chmod +x xampp-linux-x64-8.1.2-0-installer.run
 
+```
 
