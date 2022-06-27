@@ -31,9 +31,17 @@ Setalah anda berhasil mendownload xampp dari situs resiminya `CRTL+ALT+T` dan ma
 ```bush
 muhaemin@mumu:~ cd/Downloads
 ```
-lalu ketikan printah di bawah ini
+Agar package installer dapat di eksekusi jalankan ketikan printah di bawah ini
 ```bush
 sudo chmod +x xampp-linux-x64-8.1.2-0-installer.run
-
 ```
+Konfirmasi permision agar dapat di eksekusi, jalankan:
+```bush
+ls -l xampp-linux-x64-8.1.2-0-installer.run
+```
+Dengan menjalankan printah `sudo` maka jalankan printah berikut untuk meluncurkan setup wizard:
+```bush
+sudo ./xampp-linux-x64-8.1.2-0-installer.run
+```
+
 
